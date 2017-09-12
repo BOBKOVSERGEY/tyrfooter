@@ -1,0 +1,9 @@
+@font-face {
+  font-family: DINPro-Regular;
+  src: url(../fonts/DINPro-Regular.otf), url(../fonts/DINPro-Regular.ttf), url(../fonts/DINPro-Regular.woff);
+}
+@font-face {
+  font-family: DINPro-Bold;
+  src: url(../fonts/DINPro-Bold.otf), url(../fonts/DINPro-Bold.ttf), url(../fonts/DINPro-Bold.woff);
+  font-weight:bold;
+}
